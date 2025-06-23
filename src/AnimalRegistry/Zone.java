@@ -28,6 +28,6 @@ public enum Zone {
 
     @Override
     public String toString() {
-        return "Zone " + "Zone: " + Zone;
+        return Zone;
     } 
 }
